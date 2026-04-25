@@ -1,0 +1,26 @@
+# Flutter
+.dart_tool/
+.pub/
+.pub-cache/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+
+# Android
+android/.gradle/
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
